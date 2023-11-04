@@ -1,0 +1,14 @@
+h1[font=arial]
+
+input[type=text]{background-color: purple;
+}
+
+label {
+    font:"color"Red; background-color: blueviolet;
+  }
+  submit{ padding: 14px
+ border:none;
+background-color: green; 
+color: white;
+border-radius: 10px;
+font: weight 400px;}
